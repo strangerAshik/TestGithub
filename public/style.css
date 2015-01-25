@@ -1,0 +1,9 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{width:960px;margin:20px auto;}
+#header li{list-style:none;display:inline-block;}
+#header li a{text-decoration:none;padding:20px;background:#002B36;color:#FFF;}
