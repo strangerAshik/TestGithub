@@ -6,3 +6,6 @@ This is a basic Accounting Manager, PHP freamwork laravel used to developed this
 3.Keeping Petty cash record
 4.Depending on those record it will generate all most all desired pdf report
 
+#Note:
+Feel Free to contribute on this opensource project
+
