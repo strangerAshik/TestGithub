@@ -11,9 +11,19 @@
 |
 */
 /**/
+Route::get('financialTransaction', function()
+{
+	return View::make('user.financialTransaction');
+	
+});
 Route::get('/', function()
 {
 	return View::make('user.home');
+	
+});
+Route::get('hello', function()
+{
+	return 'hellooooooo';
 	
 });
 Route::get('financialTransaction', function()
